@@ -1,0 +1,16 @@
+.filter {
+    display: flex;
+    justify-content: space-around;
+    width: 340px;
+    margin-bottom: 10px;
+}
+
+.filter__btn {
+    height: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.filter__btn--active {
+    background-color: #979492;
+}
