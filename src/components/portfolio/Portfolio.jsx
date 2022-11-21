@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import ProjectList from '../projectList/ProjectList';
 import Toolbar from '../toolbar/Toolbar';
-import array from '../Data';
+import array from '../data/Data';
 import './main.css';
 
 function Portfolio() {
