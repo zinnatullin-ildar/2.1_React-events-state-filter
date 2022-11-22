@@ -2,7 +2,7 @@
 
 Необходимо реализовать портфолио с фильтрами, аналогичное указанному на изображении.
 
-![portfolio-all](https://github.com/222Alexa/ra16-homeworks/raw/master/events-state/filter/assets/portfolio-all.png)
+![portfolio-all](https://github.com/netology-code/ra16-homeworks/blob/master/events-state/filter/assets/portfolio-all.png)
 
 ## Описание проекта
 
@@ -35,4 +35,4 @@
 - из компонента `Portfolio` передать активный фильтр в свойство `selected` компонента `Toolbar`
 - в компоненте `Portfolio` отфильтровать по активному фильтру проекты и передать их в компонент `ProjectList`
 
-![portfolio-cards.png](https://github.com/222Alexa/ra16-homeworks/raw/master/events-state/filter/assets/portfolio-cards.png)
+![portfolio-cards.png](https://github.com/netology-code/ra16-homeworks/blob/master/events-state/filter/assets/portfolio-cards.png)
